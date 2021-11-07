@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-07T17:03:26.993Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="5V9tsxjVADX-qujKfhN2" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-07T17:19:35.754Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="YgBZslViWPFjRNYTomC5" version="15.5.9" type="github">
   <diagram id="AX17npoThZPZTXvEmNUs" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
       <root>
@@ -79,7 +79,7 @@
             <mxPoint x="420" y="267" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lCnyWMuXKtOOdljTZJ64-26" value="Sterling Indicator" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="lCnyWMuXKtOOdljTZJ64-26" value="Sterling Integrator" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="300" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
